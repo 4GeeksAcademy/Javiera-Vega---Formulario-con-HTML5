@@ -1,0 +1,6 @@
+.radio-centrado {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 40%;
+}
